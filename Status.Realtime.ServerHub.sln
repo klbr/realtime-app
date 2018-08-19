@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Status.Realtime.ServerHub", "Status.Realtime.ServerHub\Status.Realtime.ServerHub.csproj", "{9249C9F4-0F43-46E3-BD30-EACA817754BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9249C9F4-0F43-46E3-BD30-EACA817754BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9249C9F4-0F43-46E3-BD30-EACA817754BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9249C9F4-0F43-46E3-BD30-EACA817754BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9249C9F4-0F43-46E3-BD30-EACA817754BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10682F86-37FA-4C03-A344-D1AAFDDEABE0}
+	EndGlobalSection
+EndGlobal
